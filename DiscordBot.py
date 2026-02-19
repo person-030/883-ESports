@@ -36,3 +36,24 @@ except Exception as e:
     print(e)
     print(e.args)
 
+
+class User:
+    def __init__(self, first_name, last_name, discord_user, discord_id, rank, unit, team_name):
+        self.first_name = first_name
+        self.last_name = last_name
+        self.discord_user = discord_user
+        self.discord_id = discord_id
+        self.rank = rank
+        self.unit = unit
+        self.team_name = team_name
+        self.roles = []
+
+    def add_role(self, role):
+        #preventing duplicate roles from being added to the user
+        if role not in self.roles:
+            self.roles.append(role)
+
+    def remove_role(self, role):
+        if role in self.roles:
+            self.roles.remove(role)
+
