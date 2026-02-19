@@ -34,4 +34,29 @@ except Exception as e:
     print(e)
     print(e.args)
 
+#data structure for user
+class User:
+    def __init__(self, first_name, last_name, discord_user, discord_id, rank, unit, team_name):
+        self.first_name = first_name
+        self.last_name = last_name
+        self.discord_user = discord_user
+        self.discord_id = discord_id
+        self.rank = rank
+        self.unit = unit
+        self.team_name = team_name
+        self.roles = []
 
+    def add_role(self, role):
+        self.roles.append(role)
+
+    def remove_role(self, role):
+        if role in self.roles:
+            self.roles.remove(role)
+
+u = User("Jane", "Doe", "jane#0001", 101, "Member", 2, "Bravo")
+
+print(u.discord_user)  # jane#0001
+print(u.roles)         # []
+
+u.add_role("helper")
+print(u.roles)  
