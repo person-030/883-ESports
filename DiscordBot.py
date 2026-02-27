@@ -10,9 +10,26 @@ from dotenv import load_dotenv
 load_dotenv() # Loads the environment variables from the .env file, which is where the bot token is stored. This allows the bot to access the token securely without hardcoding it into the code.
 
 description = ""
-# todo implement datastructure for a user
-# implement hashmap for users 
-# implement a function to check if a user is in the hashmap and assign roles accordingly
+
+class User:
+    def __init__(self, first_name: str, last_name: str, 
+                discord_user: str, discord_id: int, 
+                rank: str, roles: list, unit: int, team_name: str):
+        self.first_name = first_name
+        self.last_name = last_name
+        self.discord_user = discord_user
+        self.discord_id = discord_id
+        self.rank = rank
+        self.roles = roles
+        self.unit = unit
+        self.team_name = team_name
+
+def load_users(filepath = "data.json"):
+    try:
+
+    except Exception as e:
+        print("Error loading users from file:", e)
+        return {}
 
 intents = discord.Intents.all()
 client = discord.Client(intents=intents) #Declares the bot client and sets the intents to all, which allows the bot to access all events and data from the server. This is necessary for the bot to function properly and assign roles, check user information, etc.
@@ -28,6 +45,47 @@ async def on_ready():
     channel = client.get_channel(1349470222532345989)
 
     await channel.send(f"Bot is online and running on {dateStr}")
+
+@tree.command(
+    name = "join",
+    description= "Sign-in for the tournament and get assigned roles.",
+    guild = discord.Object(id=1334394629746851913)
+)
+
+
+
+async def join(interaction: discord.Interaction):
+    guild = await client.fetch_guild(1334394629746851913)
+    member = await guild.fetch_member(interaction.user.id)
+
+    # Fetching game role IDs
+    valorant = guild.get_role(1334397946720157727)
+    brawl_stars = guild.get_role(1334397977531519018)
+    fortnite = guild.get_role(1476758746553122959)
+    tetris = guild.get_role(1334398002302943253)
+    clash_royale = guild.get_role(1476758862324437105)
+
+    # Fetching channel IDs
+    general = guild.get_channel(1348128251326890055)
+    authentication = guild.get_channel(1348128057365364851)
+    announcements = guild.get_channel(1349470222532345989)
+
+    # Hardcoded dict for game role IDS
+    gameIDs = {
+                "Valorant": valorant,
+                "Brawl Stars": brawl_stars,
+                "Fortnite": fortnite,
+                "Tetris": tetris,
+                "Clash Royale": clash_royale
+    }
+    
+    # Hardcoded dict for channel IDS
+    channelIDs = {
+                "General": general,
+                "Authentication": authentication,
+                "Announcements": announcements
+    }
+
 
 try:
     client.run(os.getenv('token')) # This command gets the token from the .env file and runs the bot
