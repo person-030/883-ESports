@@ -26,7 +26,7 @@ class User:
 
 def load_users(filepath = "data.json"):
     try:
-
+        print("hello")
     except Exception as e:
         print("Error loading users from file:", e)
         return {}
@@ -42,8 +42,7 @@ day = int(datetime.today().day)
 async def on_ready():
     await client.change_presence(activity=discord.Game(name="883 E-Sports Tournament"))
     await tree.sync(guild=discord.Object(id=1334394629746851913))
-    channel = client.get_channel(1349470222532345989)
-
+    channel = client.get_channel(1341942160542666812)
     await channel.send(f"Bot is online and running on {dateStr}")
 
 @tree.command(
@@ -51,8 +50,6 @@ async def on_ready():
     description= "Sign-in for the tournament and get assigned roles.",
     guild = discord.Object(id=1334394629746851913)
 )
-
-
 
 async def join(interaction: discord.Interaction):
     guild = await client.fetch_guild(1334394629746851913)
@@ -85,6 +82,12 @@ async def join(interaction: discord.Interaction):
                 "Authentication": authentication,
                 "Announcements": announcements
     }
+    try:
+        print(member.nick)
+    except Exception as e:
+        print("Error :", e)
+        await interaction.response.send_message("An error occurred while fetching your information. Please contact a senior for assistance.", ephemeral=True)
+        return
 
 
 try:
