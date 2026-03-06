@@ -7,10 +7,15 @@ from discord.ext import commands, tasks
 from discord.utils import get
 from datetime import datetime
 from dotenv import load_dotenv
-
-load_dotenv() # Loads the environment variables from the .env file, which is where the bot token is stored. This allows the bot to access the token securely without hardcoding it into the code.
-
 description = ""
+load_dotenv() # Loads the environment variables from the .env file, which is where the bot token is stored. This allows the bot to access the token securely without hardcoding it into the code.
+intents = discord.Intents.all()
+client = discord.Client(intents=intents) #Declares the bot client and sets the intents to all, which allows the bot to access all events and data from the server. This is necessary for the bot to function properly and assign roles, check user information, etc.
+bot = commands.Bot(command_prefix="/", description=description, intents=intents) 
+tree = app_commands.CommandTree(client) # Command tree
+dateStr = datetime.today().strftime('%Y-%m-%d')
+day = int(datetime.today().day) 
+
 users = {}
 
 class User:
@@ -26,7 +31,7 @@ class User:
         self.unit = unit
         self.team_name = team_name
 
-def load_users(filepath = "data.json"):
+def load_users(filepath):
     global users
     # Keeps data new
     users.clear()
@@ -48,18 +53,13 @@ def load_users(filepath = "data.json"):
             )
             # Updating Hashmap
             users[discord_user] = user
+            print(users)
         return users
     
     except Exception as e:
         print("Error loading users from file:", e)
         return {}
 
-intents = discord.Intents.all()
-client = discord.Client(intents=intents) #Declares the bot client and sets the intents to all, which allows the bot to access all events and data from the server. This is necessary for the bot to function properly and assign roles, check user information, etc.
-bot = commands.Bot(command_prefix="/", description=description, intents=intents) 
-tree = app_commands.CommandTree(client) # Command tree
-dateStr = datetime.today().strftime('%Y-%m-%d')
-day = int(datetime.today().day) 
 
 @client.event
 async def on_ready():
@@ -67,6 +67,7 @@ async def on_ready():
     await tree.sync(guild=discord.Object(id=1334394629746851913))
     channel = client.get_channel(1341942160542666812)
     await channel.send(f"Bot is online and running on {dateStr}")
+    load_users("data.json")
 
 @tree.command(
     name = "join",
