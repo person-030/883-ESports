@@ -1,5 +1,5 @@
 {
-  "discord_user": {
+  "example": {
     "first_name": "",
     "last_name": "",
     "discord_user": "",
@@ -10,20 +10,1036 @@
     "team_name": ""
   },
 
-  "shawsomesauce": {
-    "first_name": "E",
-    "last_name": "S",
-    "discord_user": "shawsomesauce",
-    "discord_id": 264417110770319362,
-    "rank": "2Lt",
-    "roles": ["Tetris", "Valorant"],
-    "unit": 883,
-    "team_name": "team"
+  "cookieeater213": {
+    "first_name": "Jian",
+    "last_name": "Ivan",
+    "discord_user": "cookieeater213",
+    "discord_id": 0,
+    "rank": "FCpl",
+    "roles": [""],
+    "unit": 110,
+    "team_name": ""
+  },
 
-  }
+  "rafontop": {
+    "first_name": "Philips",
+    "last_name": "Rafael",
+    "discord_user": "rafontop",
+    "discord_id": 0,
+    "rank": "Cadet",
+    "roles": [" "],
+    "unit": 110,
+    "team_name": ""
+  },
 
+  "Enchanter266": {
+    "first_name": "Su",
+    "last_name": "Simon",
+    "discord_user": "Enchanter266",
+    "discord_id": 0,
+    "rank": "Sgt",
+    "roles": [" "],
+    "unit": 110,
+    "team_name": ""
+  },
 
+  "furtytu": {
+    "first_name": "Wu",
+    "last_name": "Terence",
+    "discord_user": "furtytu",
+    "discord_id": 0,
+    "rank": "Sgt",
+    "roles": [" "],
+    "unit": 110,
+    "team_name": ""
+  },
 
+  "ipad16": {
+    "first_name": "Zhang",
+    "last_name": "Anthony",
+    "discord_user": "ipad16",
+    "discord_id": 0,
+    "rank": "Sgt",
+    "roles": [" "],
+    "unit": 110,
+    "team_name": ""
+  },
 
+  "discord_user": {
+    "first_name": "Elroy",
+    "last_name": "Chen",
+    "discord_user": "nilconic",
+    "discord_id": 123456789012345678,
+    "rank": "Sgt",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+},
 
+"sukiiyaki.i": {
+  "first_name": "Joelle",
+    "last_name": "Cheng",
+    "discord_user": "sukiiyaki.i",
+    "discord_id": 123456789012345678,
+    "rank": "FSgt",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+  "junchutney": {
+    "first_name": "Jun",
+    "last_name": "Chiu",
+    "discord_user": "junchutney",
+    "discord_id": 123456789012345678,
+    "rank": "Cpl",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+  "conniechoi": {
+    "first_name": "Connie",
+    "last_name": "Choi",
+    "discord_user": "conniechoi",
+    "discord_id": 123456789012345678,
+    "rank": "Staff",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+  "dapcat": {
+    "first_name": "Ethan/Yixuan",
+    "last_name": "Fan",
+    "discord_user": "dapcat",
+    "discord_id": 123456789012345678,
+    "rank": "Cadet",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+  "Trizmking2_87349": {
+    "first_name": "Brandon",
+    "last_name": "Hon",
+    "discord_user": "Trizmking2_87349",
+    "discord_id": 123456789012345678,
+    "rank": "Cadet",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+  "Jeff04": {
+    "first_name": "Jeffrey",
+    "last_name": "Huang",
+    "discord_user": "Jeff04",
+    "discord_id": 123456789012345678,
+    "rank": "Sgt",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+  "jayvan9652": {
+    "first_name": "Jayvan",
+    "last_name": "Lam",
+    "discord_user": "jayvan9652",
+    "discord_id": 123456789012345678,
+    "rank": "FSgt",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+  "ranndomdude": {
+    "first_name": "Shiyuan",
+    "last_name": "Lei",
+    "discord_user": "ranndomdude",
+    "discord_id": 123456789012345678,
+    "rank": "Cadet",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+  "InJecz": {
+    "first_name": "Kyler",
+    "last_name": "Lin",
+    "discord_user": "InJecz",
+    "discord_id": 123456789012345678,
+    "rank": "Sgt",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+  "Charles Liu": {
+    "first_name": "Charles",
+    "last_name": "Liu",
+    "discord_user": "Charles Liu",
+    "discord_id": 123456789012345678,
+    "rank": "Staff",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+  "Iamthefishlover": {
+    "first_name": "Muxin (Leon)",
+    "last_name": "Liu",
+    "discord_user": "Iamthefishlover/Cher1u",
+    "discord_id": 123456789012345678,
+    "rank": "FCpl",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+  "luis_luvsfood": {
+    "first_name": "Luis",
+    "last_name": "Liu",
+    "discord_user": "luis_luvsfood",
+    "discord_id": 123456789012345678,
+    "rank": "FCpl",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+  "hashtagpsycho77": {
+    "first_name": "Cayden",
+    "last_name": "Lo",
+    "discord_user": "hashtagpsycho77",
+    "discord_id": 123456789012345678,
+    "rank": "Cpl",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+  "snowthebudgie": {
+    "first_name": "Abdullah",
+    "last_name": "Mahboob",
+    "discord_user": "snowthebudgie",
+    "discord_id": 123456789012345678,
+    "rank": "Cadet",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+  "NCMandala": {
+    "first_name": "nathan",
+    "last_name": "Mandala",
+    "discord_user": "NCMandala",
+    "discord_id": 123456789012345678,
+    "rank": "Sgt",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+  "adorable_cheetah_14318": {
+    "first_name": "Nithin",
+    "last_name": "Venkatesh Kumar",
+    "discord_user": "adorable_cheetah_14318",
+    "discord_id": 123456789012345678,
+    "rank": "Cpl",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+  "nims07": {
+    "first_name": "Nimhan",
+    "last_name": "Waduge",
+    "discord_user": "nims07",
+    "discord_id": 123456789012345678,
+    "rank": "FSgt",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+  "aidencya": {
+    "first_name": "Jiahua Aiden",
+    "last_name": "Wang",
+    "discord_user": "aidencya",
+    "discord_id": 123456789012345678,
+    "rank": "Cadet",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+  "Beamederichere": {
+    "first_name": "Eric",
+    "last_name": "Wang",
+    "discord_user": "Beamederichere",
+    "discord_id": 123456789012345678,
+    "rank": "Cpl",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+  "qw0826": {
+    "first_name": "Quinton",
+    "last_name": "Wong",
+    "discord_user": "qw0826",
+    "discord_id": 123456789012345678,
+    "rank": "Cadet",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+  "123123": {
+    "first_name": "petr",
+    "last_name": "wong",
+    "discord_user": "123123",
+    "discord_id": 123456789012345678,
+    "rank": "FSgt",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+  "mr.potatosiu": {
+    "first_name": "Anakin",
+    "last_name": "Young",
+    "discord_user": "mr.potatosiu",
+    "discord_id": 123456789012345678,
+    "rank": "FCpl",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+  "dioxide143": {
+    "first_name": "Dawson",
+    "last_name": "Zhang",
+    "discord_user": "dioxide143",
+    "discord_id": 123456789012345678,
+    "rank": "Sgt",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+  "moistsocks21": {
+    "first_name": "Kayden",
+    "last_name": "Zhao",
+    "discord_user": "moistsocks21",
+    "discord_id": 123456789012345678,
+    "rank": "Cpl",
+    "roles": [],
+    "unit": 351,
+    "team_name": ""
+  },
+
+"bxbysteps": {
+  "first_name": "Yasir",
+  "last_name": "Mandalawi",
+  "discord_user": "bxbysteps",
+  "discord_id": 123456789012345678,
+  "rank": "WO2",
+  "roles": [],
+  "unit": 631,
+  "team_name": ""
+},
+
+"Buhanuddin": {
+  "first_name": "Burhanuddin",
+  "last_name": "Ali Asghar",
+  "discord_user": "Buhanuddin",
+  "discord_id": 123456789012345678,
+  "rank": "Cpl",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"rice_dumpling10": {
+  "first_name": "Melvin",
+  "last_name": "Chan",
+  "discord_user": "rice_dumpling10",
+  "discord_id": 123456789012345678,
+  "rank": "Sgt",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"241bs": {
+  "first_name": "Kevin",
+  "last_name": "Chen",
+  "discord_user": "241bs",
+  "discord_id": 123456789012345678,
+  "rank": "Sgt",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"StealabrainrotisW": {
+  "first_name": "Alexander",
+  "last_name": "Georgakopoulos",
+  "discord_user": "StealabrainrotisW",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"akiyan202": {
+  "first_name": "andrew",
+  "last_name": "jie",
+  "discord_user": "akiyan202",
+  "discord_id": 123456789012345678,
+  "rank": "Cpl",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"ggfat0656_17232": {
+  "first_name": "Jasper",
+  "last_name": "Kam",
+  "discord_user": "ggfat0656_17232",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"guanu0308": {
+  "first_name": "Guanu",
+  "last_name": "Kim",
+  "discord_user": "guanu0308",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"nik40477": {
+  "first_name": "Nikolas",
+  "last_name": "Klimov",
+  "discord_user": "nik40477",
+  "discord_id": 123456789012345678,
+  "rank": "Cpl",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"Seerup": {
+  "first_name": "Anson",
+  "last_name": "Lam",
+  "discord_user": "Seerup",
+  "discord_id": 123456789012345678,
+  "rank": "FCpl",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"kody0806": {
+  "first_name": "Kody",
+  "last_name": "Leung",
+  "discord_user": "kody0806.",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"hellodudes4551": {
+  "first_name": "Eric",
+  "last_name": "Li",
+  "discord_user": "hellodudes#4551",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"thatonepersonlol1234": {
+  "first_name": "Kingsley",
+  "last_name": "Liao",
+  "discord_user": "thatonepersonlol1234",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"crashout_kid": {
+  "first_name": "Kevin",
+  "last_name": "Liu",
+  "discord_user": "crashout_kid",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"fish1ng3r": {
+  "first_name": "Lucas",
+  "last_name": "Ng",
+  "discord_user": "fish1ng3r",
+  "discord_id": 123456789012345678,
+  "rank": "Cpl",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"tremendous88": {
+  "first_name": "Gordon",
+  "last_name": "Tang",
+  "discord_user": "tremendous88",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"Rythsssss": {
+  "first_name": "Rythm",
+  "last_name": "Thapa",
+  "discord_user": "Rythsssss",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"a1dinosaur": {
+  "first_name": "Aidan",
+  "last_name": "Tran",
+  "discord_user": "a1dinosaur",
+  "discord_id": 123456789012345678,
+  "rank": "FCpl",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"sommmmm": {
+  "first_name": "Samuel",
+  "last_name": "Wang",
+  "discord_user": "sommmmm",
+  "discord_id": 123456789012345678,
+  "rank": "WO1",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"I_dont_have_discord": {
+  "first_name": "Jayden",
+  "last_name": "Wong",
+  "discord_user": "I dont have discord",
+  "discord_id": 123456789012345678,
+  "rank": "Cpl",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"leeoreo": {
+  "first_name": "Langston",
+  "last_name": "Xu",
+  "discord_user": "leeoreo",
+  "discord_id": 123456789012345678,
+  "rank": "Sgt",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"forbiggys": {
+  "first_name": "Bryan",
+  "last_name": "Ye",
+  "discord_user": "forbiggys",
+  "discord_id": 123456789012345678,
+  "rank": "FSgt",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"duvidy": {
+  "first_name": "David",
+  "last_name": "Yeh",
+  "discord_user": "duvidy",
+  "discord_id": 123456789012345678,
+  "rank": "Cpl",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"superaidan68": {
+  "first_name": "Aidan",
+  "last_name": "Yu",
+  "discord_user": "superaidan68",
+  "discord_id": 123456789012345678,
+  "rank": "Cpl",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"Tankthegreat12345": {
+  "first_name": "Hank",
+  "last_name": "Yuan/",
+  "discord_user": "Tankthegreat12345",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"ima_monkey_0": {
+  "first_name": "Eason",
+  "last_name": "Zhu",
+  "discord_user": "ima_monkey_0",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 778,
+  "team_name": ""
+},
+
+"Adrian103": {
+  "first_name": "Adrian",
+  "last_name": "Chau",
+  "discord_user": "Adrian103",
+  "discord_id": 123456789012345678,
+  "rank": "Cpl",
+  "roles": [],
+  "unit": 8,
+  "team_name": ""
+},
+
+"Siyonganim": {
+  "first_name": "Siyong",
+  "last_name": "Ahn",
+  "discord_user": "Siyonganim",
+  "discord_id": 123456789012345678,
+  "rank": "Sgt",
+  "roles": [],
+  "unit": 8,
+  "team_name": ""
+},
+
+"Handman0447": {
+  "first_name": "Christopher",
+  "last_name": "Chau",
+  "discord_user": "Handman0447",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 8,
+  "team_name": ""
+},
+
+"purple4455": {
+  "first_name": "Thomas",
+  "last_name": "Huang",
+  "discord_user": "purple4455",
+  "discord_id": 123456789012345678,
+  "rank": "FCpl",
+  "roles": [],
+  "unit": 8,
+  "team_name": ""
+},
+
+"kiwibeast.517_13575": {
+  "first_name": "Gerard",
+  "last_name": "Kang",
+  "discord_user": "kiwibeast.517_13575",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 8,
+  "team_name": ""
+},
+
+"qautii": {
+  "first_name": "Owen",
+  "last_name": "Li",
+  "discord_user": "qautii",
+  "discord_id": 123456789012345678,
+  "rank": "FCpl",
+  "roles": [],
+  "unit": 8,
+  "team_name": ""
+},
+
+"da_petrock3_95792": {
+  "first_name": "Aadrith",
+  "last_name": "Rambhatla",
+  "discord_user": "da_petrock3_95792",
+  "discord_id": 123456789012345678,
+  "rank": "LAC",
+  "roles": [],
+  "unit": 8,
+  "team_name": ""
+},
+
+"gorapters": {
+  "first_name": "Hin Man",
+  "last_name": "So",
+  "discord_user": "gorapters",
+  "discord_id": 123456789012345678,
+  "rank": "Sgt",
+  "roles": [],
+  "unit": 8,
+  "team_name": ""
+},
+
+"yukiflips": {
+  "first_name": "Alvina Yuki",
+  "last_name": "Tam",
+  "discord_user": "yukiflips",
+  "discord_id": 123456789012345678,
+  "rank": "Sgt",
+  "roles": [],
+  "unit": 8,
+  "team_name": ""
+},
+
+"hhheeecccttt": {
+  "first_name": "Hector",
+  "last_name": "Wang",
+  "discord_user": "hhheeecccttt",
+  "discord_id": 123456789012345678,
+  "rank": "Sgt",
+  "roles": [],
+  "unit": 8,
+  "team_name": ""
+},
+
+"kio.a": {
+  "first_name": "Kyle(Jia Lang)",
+  "last_name": "Xie",
+  "discord_user": "kio.a",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 8,
+  "team_name": ""
+},
+
+"austinz522": {
+  "first_name": "Austin",
+  "last_name": "Zhang",
+  "discord_user": "austinz522",
+  "discord_id": 123456789012345678,
+  "rank": "Cpl",
+  "roles": [],
+  "unit": 8,
+  "team_name": ""
+},
+
+"rainricekrispie": {
+  "first_name": "Rain",
+  "last_name": "Chen",
+  "discord_user": "rainricekrispie",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 876,
+  "team_name": ""
+},
+
+"vyrie_": {
+  "first_name": "Valorie",
+  "last_name": "Chui",
+  "discord_user": "vyrie_",
+  "discord_id": 123456789012345678,
+  "rank": "Staff",
+  "roles": [],
+  "unit": 876,
+  "team_name": ""
+},
+
+"ballerr76": {
+  "first_name": "Le Nam",
+  "last_name": "Hoang",
+  "discord_user": "ballerr76",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 876,
+  "team_name": ""
+},
+
+"stefan_hsl_02222": {
+  "first_name": "Stefan",
+  "last_name": "Huang",
+  "discord_user": "stefan_hsl_02222",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 876,
+  "team_name": ""
+},
+
+"shid.s": {
+  "first_name": "Shidharth",
+  "last_name": "Sooriyakumar",
+  "discord_user": "shid.s",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 876,
+  "team_name": ""
+},
+
+"aviis_alt_for_phone_laptop": {
+  "first_name": "Avinash",
+  "last_name": "Uthayakumar",
+  "discord_user": "aviis_alt_for_phone_laptop",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 876,
+  "team_name": ""
+},
+
+"kimjr1997": {
+  "first_name": "Chloe",
+  "last_name": "Cha",
+  "discord_user": "kimjr1997",
+  "discord_id": 123456789012345678,
+  "rank": "FSgt",
+  "roles": [],
+  "unit": 883,
+  "team_name": ""
+},
+
+"brokenoob123": {
+  "first_name": "Sunny",
+  "last_name": "Chan",
+  "discord_user": "brokenoob123",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 883,
+  "team_name": ""
+},
+
+"Bruhboi123": {
+  "first_name": "Evan",
+  "last_name": "Chantharath",
+  "discord_user": "Bruhboi123",
+  "discord_id": 123456789012345678,
+  "rank": "Cpl",
+  "roles": [],
+  "unit": 883,
+  "team_name": ""
+},
+
+"kkanoe": {
+  "first_name": "Keanu",
+  "last_name": "Chen",
+  "discord_user": "kkanoe",
+  "discord_id": 123456789012345678,
+  "rank": "Sgt",
+  "roles": [],
+  "unit": 883,
+  "team_name": ""
+},
+
+"01iv13": {
+  "first_name": "Olivia",
+  "last_name": "Chen",
+  "discord_user": "01iv13",
+  "discord_id": 123456789012345678,
+  "rank": "Cpl",
+  "roles": [],
+  "unit": 883,
+  "team_name": ""
+},
+
+"esdisogfr": {
+  "first_name": "Eehan",
+  "last_name": "Dayan",
+  "discord_user": "esdisogfr",
+  "discord_id": 123456789012345678,
+  "rank": "Cpl",
+  "roles": [],
+  "unit": 883,
+  "team_name": ""
+},
+
+"alexia_emas": {
+  "first_name": "Alexia",
+  "last_name": "Emas",
+  "discord_user": "",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 883,
+  "team_name": ""
+},
+
+"sean_5678": {
+  "first_name": "Sean",
+  "last_name": "He",
+  "discord_user": "sean_5678",
+  "discord_id": 123456789012345678,
+  "rank": "Cpl",
+  "roles": [],
+  "unit": 883,
+  "team_name": ""
+},
+
+"123hw": {
+  "first_name": "Isaac",
+  "last_name": "Huang",
+  "discord_user": "123hw",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 883,
+  "team_name": ""
+},
+
+"drippy12": {
+  "first_name": "Erdem",
+  "last_name": "Isikdogan",
+  "discord_user": "drippy12",
+  "discord_id": 123456789012345678,
+  "rank": "FCpl",
+  "roles": [],
+  "unit": 883,
+  "team_name": ""
+},
+
+"mister_zero999": {
+  "first_name": "Bardia",
+  "last_name": "Jedi",
+  "discord_user": "mister_zero999",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 883,
+  "team_name": ""
+},
+
+"hariisus": {
+  "first_name": "Hari",
+  "last_name": "Kotturri",
+  "discord_user": "hariisus",
+  "discord_id": 123456789012345678,
+  "rank": "FCpl",
+  "roles": [],
+  "unit": 883,
+  "team_name": ""
+},
+
+"dcmatersai": {
+  "first_name": "Saigitan",
+  "last_name": "Kunachelvan",
+  "discord_user": "dcmatersai",
+  "discord_id": 123456789012345678,
+  "rank": "FCpl",
+  "roles": [],
+  "unit": 883,
+  "team_name": ""
+},
+
+"lao6danireapfriendaspact": {
+  "first_name": "Max",
+  "last_name": "Kwan",
+  "discord_user": "lao6danireapfriendaspact",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 883,
+  "team_name": ""
+},
+
+"noone6924": {
+  "first_name": "Matthew",
+  "last_name": "Lee",
+  "discord_user": "noone6924",
+  "discord_id": 123456789012345678,
+  "rank": "Sgt",
+  "roles": [],
+  "unit": 883,
+  "team_name": ""
+},
+
+"Mascoe#7916": {
+  "first_name": "Mascoe",
+  "last_name": "Leung",
+  "discord_user": "Mascoe#7916",
+  "discord_id": 123456789012345678,
+  "rank": "Sgt",
+  "roles": [],
+  "unit": 883,
+  "team_name": ""
+},
+
+"strawbery.milkstr": {
+  "first_name": "Crystal",
+  "last_name": "Li",
+  "discord_user": "strawbery.milkstr",
+  "discord_id": 123456789012345678,
+  "rank": "WO2",
+  "roles": [],
+  "unit": 883,
+  "team_name": ""
+},
+
+"tensai4844": {
+  "first_name": "Ivan",
+  "last_name": "Liang",
+  "discord_user": "tensai4844",
+  "discord_id": 123456789012345678,
+  "rank": "Cpl",
+  "roles": [],
+  "unit": 883,
+  "team_name": ""
+},
+
+"kelson04427": {
+  "first_name": "Kelson",
+  "last_name": "Lin",
+  "discord_user": "kelson04427",
+  "discord_id": 123456789012345678,
+  "rank": "Cpl",
+  "roles": [],
+  "unit": 883,
+  "team_name": ""
+},
+
+"void_ethan.": {
+  "first_name": "Ethan",
+  "last_name": "Lin",
+  "discord_user": "void_ethan.",
+  "discord_id": 123456789012345678,
+  "rank": "Cadet",
+  "roles": [],
+  "unit": 883,
+  "team_name": ""
 }
