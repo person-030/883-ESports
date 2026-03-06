@@ -1,6 +1,7 @@
 import discord
 import random
 import os
+import json
 from discord import app_commands
 from discord.ext import commands, tasks
 from discord.utils import get
@@ -10,6 +11,7 @@ from dotenv import load_dotenv
 load_dotenv() # Loads the environment variables from the .env file, which is where the bot token is stored. This allows the bot to access the token securely without hardcoding it into the code.
 
 description = ""
+users = {}
 
 class User:
     def __init__(self, first_name: str, last_name: str, 
@@ -25,8 +27,29 @@ class User:
         self.team_name = team_name
 
 def load_users(filepath = "data.json"):
+    global users
+    # Keeps data new
+    users.clear()
     try:
-
+        with open(filepath, "r") as file:
+            data = json.load(file)
+        
+        # discord_user is the key, item is value
+        for discord_user, item in data.items():
+            user = User(
+                first_name=item["first_name"],
+                last_name=item["last_name"],
+                discord_user=item["discord_user"],
+                discord_id=item["discord_id"],
+                rank=item["rank"],
+                roles=item["roles"],
+                unit=item["unit"],
+                team_name=item["team_name"]
+            )
+            # Updating Hashmap
+            users[discord_user] = user
+        return users
+    
     except Exception as e:
         print("Error loading users from file:", e)
         return {}
