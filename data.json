@@ -643,9 +643,9 @@
     "discord_user": "Siyonganim",
     "discord_id": 123456789012345678,
     "rank": "Sgt",
-    "roles": [],
+    "roles": ["Valorant"],
     "unit": 8,
-    "team_name": ""
+    "team_name": "Valorant"
   },
 
   "Handman0447": {
@@ -687,9 +687,9 @@
     "discord_user": "qautii",
     "discord_id": 123456789012345678,
     "rank": "FCpl",
-    "roles": [],
+    "roles": ["Valorant"],
     "unit": 8,
-    "team_name": ""
+    "team_name": "Valorant"
   },
 
   "da_petrock3_95792": {
@@ -709,9 +709,9 @@
     "discord_user": "gorapters",
     "discord_id": 123456789012345678,
     "rank": "Sgt",
-    "roles": [],
+    "roles": ["Valorant"],
     "unit": 8,
-    "team_name": ""
+    "team_name": "Valorant"
   },
 
   "yukiflips": {
@@ -720,9 +720,9 @@
     "discord_user": "yukiflips",
     "discord_id": 123456789012345678,
     "rank": "Sgt",
-    "roles": [],
+    "roles": ["Valorant"],
     "unit": 8,
-    "team_name": ""
+    "team_name": "Valorant"
   },
 
   "hhheeecccttt": {
@@ -885,7 +885,7 @@
     "discord_user": "esdisogfr",
     "discord_id": 123456789012345678,
     "rank": "Cpl",
-    "roles": [],
+    "roles": ["Brawl Stars"],
     "unit": 883,
     "team_name": ""
   },
@@ -940,7 +940,7 @@
     "discord_user": "mister_zero999",
     "discord_id": 123456789012345678,
     "rank": "Cadet",
-    "roles": [],
+    "roles": ["Brawl Stars"],
     "unit": 883,
     "team_name": ""
   },
